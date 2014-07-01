@@ -1,46 +1,40 @@
-Download Programming eBooks
+download-programming-ebooks
 ===========================
 
-*Download free programming eBooks with pdf or epub format.*
+Download free programming eBooks with pdf or epub format
 
-## Introduction 
-I have collected thousands of programming eBooks from the Internet. It's time to share with you! You can donwload these books directly. Enjoy!
-
-## How to
-The information of each books is arrange in a table like below. And an [index](index.md) of all these books is available [here](index.md). You can first search on the [index](index.md) for you book, and then click on the book title to look for more information.
-
-### 2051. AngularJS
+### 1. A Peek at Computer Electronics
 
 <table>
     <tr>
         <td rowspan="7">
-            <img alt="AngularJS" src="http://it-ebooks.info/images/ebooks/3/angularjs.jpg">
+            <img src="http://it-ebooks.info/images/ebooks/1/a_peek_at_computer_electronics.jpg">
         </td>
         <td>Author:</td>
-        <td>Brad Green, Shyam Seshadri</td>
+        <td>Caleb Tennis</td>
     </tr>
     <tr>
         <td>ISBN:</td>
-        <td>978-1-44934-485-6</td>
+        <td>978-0-9776-1668-8</td>
     </tr>
     <tr>
         <td>Size:</td>
-        <td>8.8 MB</td>
+        <td>5.52MB</td>
     </tr>
     <tr>
         <td>Pages:</td>
-        <td>196</td>
+        <td>250</td>
     </tr>
     <tr>
         <td>Year:</td>
-        <td>2013</td>
+        <td>2007</td>
     </tr>
     <tr>
         <td>Publisher:</td>
-        <td>O'Reilly Media</td>
+        <td>The Pragmatic Programmers</td>
     </tr>
     <tr>
         <td>Download:</td>
-        <td><a title="Download AngularJS pdf" href="http://www.eazydoc.com/8wq">http://www.eazydoc.com/8wq</a></td>
+        <td><a title="Download A Peek at Computer Electronics pdf" href="http://www.eazydoc.com/rD">http://www.eazydoc.com/rD</a></td>
     </tr>
 </table>
